@@ -1,6 +1,9 @@
 `brew install neovim`
+
 `brew install ripgrep`
+
 `brew install jesseduffield/lazygit/lazygit`
+
 
 
 ```bash
